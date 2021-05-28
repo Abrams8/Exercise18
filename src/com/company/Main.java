@@ -1,4 +1,4 @@
-package com.company;            //задача 18
+package com.company;
 
 public class Main {
 
